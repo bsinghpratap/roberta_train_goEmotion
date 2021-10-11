@@ -8,7 +8,6 @@
 <b>Original Paper</b>: GoEmotions: A Dataset of Fine-Grained Emotions
 
 <b>Training Details</b>:
-- The training script is provided here: https://github.com/bsinghpratap/roberta_train_goEmotion
 - Please feel free to start an issue in the repo if you have trouble running the model and I would try to respond as soon as possible.
 - The model works well on most of the emotions except: 'desire', 'disgust', 'embarrassment', 'excitement', 'fear', 'grief', 'nervousness', 'pride', 'relief', 'remorse', 'surprise']
 - I'll try to fine-tune the model further and update here if RoBERTa achieves a better performance.
